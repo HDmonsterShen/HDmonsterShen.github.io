@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as _,a as e,b as c}from"./app-f6817a80.js";const o={},r=e("h1",{id:"前端框架",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#前端框架","aria-hidden":"true"},"#"),c(" 前端框架")],-1),s=[r];function n(d,i){return a(),_("div",null,s)}const l=t(o,[["render",n],["__file","前端框架.html.vue"]]);export{l as default};

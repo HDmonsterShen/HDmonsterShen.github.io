@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,a as e,b as o}from"./app-f6817a80.js";const r={},s=e("h1",{id:"vue案例",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#vue案例","aria-hidden":"true"},"#"),o(" Vue案例")],-1),_=[s];function n(d,i){return a(),c("div",null,_)}const h=t(r,[["render",n],["__file","Vue案例.html.vue"]]);export{h as default};

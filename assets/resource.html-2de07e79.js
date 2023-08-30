@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e7d9819c","path":"/resource.html","title":"编程资源","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"数据","slug":"数据","link":"#数据","children":[]}],"git":{"updatedTime":1693370634000,"contributors":[{"name":"wangyifan","email":"348544801@qq.com","commits":1}]},"filePathRelative":"resource.md"}');export{e as data};
